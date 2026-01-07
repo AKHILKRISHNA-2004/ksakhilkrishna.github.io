@@ -1,10 +1,5 @@
-# K S Akhilkrishna — Data Science Portfolio 🚀
-
-This repository contains the source code and assets for my **personal portfolio website**, designed with a modern, professional, dark-themed interface inspired by data science and analytics.
-
-The portfolio showcases my **education, skills, projects, achievements, and services** as an aspiring data scientist.
-
----
+# K S Akhilkrishna 
+**Data Science Portfolio**🚀
 
 ## 👤 About Me
 
@@ -33,18 +28,10 @@ My goal is to grow as a data professional by continuously learning and applying 
 
 ## 🛠 Skills & Expertise
 
-### Technical Skills
 - **Programming:** Python, SQL, R, MATLAB  
 - **Data & Analytics:** Data Analysis, Data Cleaning, Data Transformation, Machine Learning  
 - **Visualization & BI:** Power BI, Tableau  
-- **Databases:** Complex SQL Queries, Database Management  
-
-### Soft Skills
-- Analytical & problem-solving mindset  
-- Attention to detail and accuracy  
-- Team collaboration & leadership  
-- Strong communication skills  
-- Continuous learning attitude  
+- **Databases:** Complex SQL Queries, Database Management
 
 ---
 
@@ -75,7 +62,7 @@ I offer foundational data and analytics services, including:
 - Data cleaning and transformation  
 - Writing and optimizing SQL queries  
 - Interactive dashboards using Power BI & Tableau  
-- Basic machine learning models for academic and prototype-level projects  
+- Machine learning models for academic and prototype-level projects  
 
 ---
 
