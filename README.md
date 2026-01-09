@@ -74,15 +74,6 @@ I offer foundational data and analytics services, including:
 
 ---
 
-## 🎨 Portfolio Design
-
-- **Theme:** Modern, professional, dark mode  
-- **Style:** Data-inspired, minimal, recruiter-friendly  
-- **Colors:** Dark charcoal / navy with subtle accent colors  
-- **UI:** Smooth animations, card-based layout, responsive design  
-
----
-
 ## 📬 Contact
 
 - **Email:** ksakhilkrishna24@gmail.com  
